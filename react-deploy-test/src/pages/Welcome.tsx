@@ -11,7 +11,7 @@ export const Welcome = () => {
                 id = {id}
             </h1>
             <h1>
-                Welcome PAGE
+                Welcome PAGE changed
             </h1>
         </div>
 
